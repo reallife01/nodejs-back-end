@@ -1,0 +1,33 @@
+[
+    {
+        "id" : 1,
+        "firstname": "Azeez",
+         "lastname": "Tijani"
+
+    },
+    {
+        "id" : 2,
+        "firstname": "Bayo",
+         "lastname": "Bayooooooooooo"
+
+    },
+    {
+        "id" : 3,
+        "firstname": "Ustauz",
+         "lastname": "Mubarak"
+
+    },
+    {
+        "id" : 4,
+        "firstname": "Matto",
+         "lastname": "West911"
+
+    },
+    {
+        "id" : 5,
+        "firstname": "Dev",
+         "lastname": "Roqeebah"
+
+    }
+
+]

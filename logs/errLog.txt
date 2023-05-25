@@ -1,0 +1,20 @@
+2023-05-18		11:08:51	07581700-a2ed-41b9-9e32-e0dccdb34fb4	 Error, Not allowed by CORS
+2023-05-18		11:08:51	5b030142-4439-44e0-aa02-8919a9b8ab38	 Error, Not allowed by CORS
+2023-05-18		11:24:48	109f59da-6621-4ed6-9d83-14d662e6884e	 Error, Not allowed by CORS
+2023-05-18		11:24:48	ed0ef464-1dc8-4264-bf60-46d9a8a52534	 Error, Not allowed by CORS
+2023-05-18		11:26:07	2b04e2fa-5ba7-45d8-b814-56ef966648fd	 Error, Not allowed by CORS
+2023-05-18		11:26:07	e88b3956-892d-4865-9799-8081706f4711	 Error, Not allowed by CORS
+2023-05-18		11:27:36	f753d123-1d5f-4882-a2bb-0b643c14e12c	 Error, Not allowed by CORS
+2023-05-18		11:27:36	3b89f2be-22ef-40f7-a056-7716a8966224	 Error, Not allowed by CORS
+2023-05-18		12:51:04	dd79f8f9-ce22-4174-83db-52c38a0e50de	 Error, ENOENT: no such file or directory, stat 'C:\Users\DELL\Desktop\nodejs-course\router-tut-8\views\subdir\index.html'
+2023-05-23		09:29:27	35f3094c-b4ea-490e-9498-c477f4bfa0ae	 TypeError, res.staus is not a function
+2023-05-23		09:41:11	a041888f-a8ed-4bc7-a7f6-5e0b87ab29ed	 SyntaxError, Unexpected token { in JSON at position 45
+2023-05-23		12:13:50	421cefa3-a1f0-4751-9da2-1d8da49d5018	 SyntaxError, Unexpected non-whitespace character after JSON at position 38
+2023-05-23		12:14:39	5e415f04-162c-4367-8d7d-9fd5cc07a0ed	 SyntaxError, Unexpected non-whitespace character after JSON at position 38
+2023-05-23		12:18:33	30ec630b-7a8d-43da-847e-d17a6d1dacc4	 SyntaxError, Unexpected non-whitespace character after JSON at position 38
+2023-05-24		16:29:22	71d4084c-0367-4664-b16a-c28fce734b40	 ReferenceError, refreshToken is not defined
+2023-05-24		16:29:27	8c31f6cb-ee23-4cae-8de2-0bdd08299a75	 ReferenceError, refreshToken is not defined
+2023-05-24		16:30:47	3c7165f6-628c-466a-9da3-ca69f9fbc34f	 ReferenceError, refreshToken is not defined
+2023-05-25		09:56:18	53020024-2304-4091-83c8-c7ce0ab90341	 ReferenceError, refreshToken is not defined
+2023-05-25		10:02:40	c3a0ad13-aacc-405f-93fe-39e2174a848c	 ReferenceError, refreshToken is not defined
+2023-05-25		10:03:05	fbc3050f-3d09-46a4-b8d3-3904370163c5	 ReferenceError, refreshToken is not defined
